@@ -12,4 +12,13 @@ Objective of this project - The major objective of this project is to create a p
 Acknowledgments We would like to thank Kaggle for donating the Titanic dataset, which has helped advance the machine learning industry.
 This work is done under guidedance of Bharat intern.
 
+
+## Contact
+
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+
+- Your Name : [BHAWANA CHAUHAN](https://www.linkedin.com/in/bhawana-chauhan-135727266/)
+- Email: [210160203059.bhawana@gdgu.org](mailto:210160203059.bhawana@gdgu.com)
+
+ 
 Thank you for using my prefer code for Titanic Classification! If you have any questions or feedback, please don't hesitate to reach out. 
